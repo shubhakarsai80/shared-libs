@@ -1,3 +1,3 @@
 def call () {
-sh "mvn checkstyle:checkstyle"
+sh "mvn test"
 }
