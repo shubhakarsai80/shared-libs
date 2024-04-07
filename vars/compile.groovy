@@ -1,3 +1,3 @@
-def call("compile"){
+def call () {
   sh "mvn compile"
 }
